@@ -3,7 +3,7 @@ const chalk = require('chalk')
 
 module.exports = {
   SESSION_ID: 'QUEENELISA;;;==QVzpXO2JWaDVDSShTcENFTRZEV6JkaRVGaG9mZ5o1cj9UMphlYKF2TUllYjIGVaZFbO5UVpwd=307086347452',
-  MONGODB_URL: 'mongodb+srv://sam:sam@cluster0.u1smxsv.mongodb.net/?retryWrites=true&w=majority', 
+  MONGODB_URL: 'mongodb+srv://cheekyheroku:elisa1@elisa.sqrwy.mongodb.net/', 
   ALIVE_REACT: '👋',
   ALIVE_MESSAGE: `*Hello @name [ And @gname @members Number of Members ] I am Alive Now !*
 
